@@ -1,1 +1,1 @@
-# streamlit_soil_shear_strength
+# Streamlit App to Determine Soil Shear Strength from Triaxial Tests
